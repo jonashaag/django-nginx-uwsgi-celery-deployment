@@ -1,0 +1,2 @@
+-r requirements-base.txt
+https://github.com/jonashaag/karellen-kombu-ext/archive/master.zip # Patched version with Django 2.0 support

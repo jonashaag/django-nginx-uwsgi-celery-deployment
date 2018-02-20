@@ -1,0 +1,3 @@
+django
+django-celery-results
+django-celery-beat
